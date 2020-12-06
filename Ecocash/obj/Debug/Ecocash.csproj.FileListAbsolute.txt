@@ -1,0 +1,7 @@
+C:\Users\psy4kid\Source\repos\Ecocash\Ecocash\bin\Debug\Ecocash.exe.config
+C:\Users\psy4kid\Source\repos\Ecocash\Ecocash\bin\Debug\Ecocash.exe
+C:\Users\psy4kid\Source\repos\Ecocash\Ecocash\bin\Debug\Ecocash.pdb
+C:\Users\psy4kid\Source\repos\Ecocash\Ecocash\obj\Debug\Ecocash.csprojAssemblyReference.cache
+C:\Users\psy4kid\Source\repos\Ecocash\Ecocash\obj\Debug\Ecocash.csproj.CoreCompileInputs.cache
+C:\Users\psy4kid\Source\repos\Ecocash\Ecocash\obj\Debug\Ecocash.exe
+C:\Users\psy4kid\Source\repos\Ecocash\Ecocash\obj\Debug\Ecocash.pdb
